@@ -1,0 +1,1175 @@
+Please see `nvm --help` or https://github.com/nvm-sh/nvm#nvmrc for more information.
+
+> lpu-belt-explorer@0.0.1 test
+> vitest
+
+[?25l
+[1m[30m[44m DEV [49m[39m[22m [34mv5.0.1 [39m[90m/Users/nealbayless/LOCAL/GitHubLocal/lpu-belt-explorer/apps/web[39m
+
+[?2026h
+[1m[33m ❯ [39m[22mtests/vitest/LeaderboardRoute.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m0 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m0 passed[39m[22m[90m (0)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m203ms
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/LockListRoute.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+[90mstdout[2m | tests/vitest/LeaderboardRoute.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+[90mstdout[2m | tests/vitest/ClassificationPreview.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+[90mstdout[2m | tests/vitest/ClassificationChangelog.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+[90mstdout[2m | tests/vitest/SafelocksRoute.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LeaderboardRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m0 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m0 passed[39m[22m[90m (0)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m915ms
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/ClassificationAccess.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+[90mstdout[2m | tests/vitest/MUICompatibility.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LeaderboardRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 0/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m0 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m0 passed[39m[22m[90m (10)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m1.72s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m 0/11[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 0/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/LeaderboardRoute.test.jsx[2m 0/6[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 0/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 0/4[22m
+
+[2m Test Files [22m[1m[32m0 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m0 passed[39m[22m[90m (45)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m1.82s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/ClassificationChangelog.test.jsx[2m > [22m[2mclassification changelog[2m > [22m[2mshows saved approval independently of reconciliation and updates it for admins
+[22m[39madminAction {
+  actionId: [32m'published-action'[39m,
+  entryId: [32m'f72085d2'[39m,
+  action: [32m'Belt Change'[39m,
+  updatedBelt: [32m'Blue'[39m,
+  previousBelt: [32m'White'[39m,
+  approved: [33mtrue[39m
+}
+
+[90mstdout[2m | tests/vitest/ClassificationChangelog.test.jsx[2m > [22m[2mclassification changelog[2m > [22m[2mshows saved approval independently of reconciliation and updates it for admins
+[22m[39madminAction {
+  actionId: [32m'published-action'[39m,
+  entryId: [32m'f72085d2'[39m,
+  action: [32m'Belt Change'[39m,
+  updatedBelt: [32m'Blue'[39m,
+  previousBelt: [32m'White'[39m,
+  approved: [33mtrue[39m
+}
+
+[90mstdout[2m | tests/vitest/ClassificationChangelog.test.jsx[2m > [22m[2mclassification changelog[2m > [22m[2mshows saved approval independently of reconciliation and updates it for admins
+[22m[39madminAction {
+  actionId: [32m'published-action'[39m,
+  entryId: [32m'f72085d2'[39m,
+  action: [32m'Belt Change'[39m,
+  updatedBelt: [32m'Blue'[39m,
+  previousBelt: [32m'White'[39m,
+  approved: [33mtrue[39m
+}
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m 0/11[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 0/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/LeaderboardRoute.test.jsx[2m 1/6[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 0/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 0/4[22m
+
+[2m Test Files [22m[1m[32m0 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m1 passed[39m[22m[90m (45)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m2.02s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m 0/20[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m 1/11[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 0/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/LeaderboardRoute.test.jsx[2m 1/6[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 0/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 0/4[22m
+
+[2m Test Files [22m[1m[32m0 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m2 passed[39m[22m[90m (65)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m2.22s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m 1/20[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m 2/11[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 1/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/LeaderboardRoute.test.jsx[2m 2/6[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 0/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 0/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 0/4[22m
+
+[2m Test Files [22m[1m[32m0 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m6 passed[39m[22m[90m (73)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m2.32s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/LeaderboardRoute.test.jsx[2m > [22m[2mLeaderboardRoute[2m > [22m[2mrenders specific child route path (/leaderboard/recent equivalent) and shows Recent Belts & Dans
+[22m[39mdata {
+  awards: [],
+  evidence: [],
+  metadata: { updatedDateTime: [32m'2026-09-14T00:00:00.000Z'[39m }
+}
+
+ [32m✓[39m tests/vitest/LeaderboardRoute.test.jsx [2m([22m[2m6 tests[22m[2m)[22m[33m 610[2mms[22m[39m
+[90mstdout[2m | tests/vitest/ClassificationChangelog.test.jsx[2m > [22m[2mclassification changelog[2m > [22m[2mgroups a new sameline with samelines and exports its name
+[22m[39madminAction {
+  id: [32m'action-new-sameline'[39m,
+  entryId: [32m'f72085d2'[39m,
+  status: [32m'Staged'[39m,
+  action: [32m'Add New Sameline'[39m,
+  newSamelineName: [32m'New Lock Name'[39m,
+  note: [32m'Same mechanism'[39m
+}
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m 6/20[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m 7/11[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 1/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/LeaderboardRoute.test.jsx[2m 6/6[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 0/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 0/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 0/4[22m
+
+[2m Test Files [22m[1m[32m1 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m20 passed[39m[22m[90m (73)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m2.42s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/ClassificationChangelog.test.jsx[2m > [22m[2mclassification changelog[2m > [22m[2mgroups an Other action and exports its unchanged belt and note
+[22m[39madminAction {
+  id: [32m'action-other'[39m,
+  entryId: [32m'f72085d2'[39m,
+  status: [32m'Staged'[39m,
+  action: [32m'Other'[39m,
+  updatedBelt: [1mnull[22m,
+  note: [32m'Updated lock details'[39m
+}
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m 13/20[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m 7/11[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 1/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 0/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 0/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 0/4[22m
+
+[2m Test Files [22m[1m[32m1 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m27 passed[39m[22m[90m (73)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m2.52s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/ClassificationChangelog.test.jsx[2m > [22m[2mclassification changelog[2m > [22m[2mshows staged Sameline and Delete sections as the visible actions change
+[22m[39madminAction {
+  id: [32m'a_t_181pdc25'[39m,
+  type: [32m'adminAction'[39m,
+  status: [32m'Staged'[39m,
+  userId: [32m'GGplAdctTfVDLVvYsfIADJmfp8f2'[39m,
+  displayName: [32m'mgsecure'[39m,
+  entryId: [32m'f72085d2'[39m,
+  entryName: [32m'ABUS 34/55 Platinum'[39m,
+  action: [32m'Sameline'[39m,
+  samelineLock: {
+    lockFullName: [32m'Any China Padlock (granite look)'[39m,
+    lockName: [32m'Any China Padlock (granite look)'[39m,
+    lockId: [32m'3ac43ea8'[39m,
+    belt: [32m'White'[39m,
+    lockIndex: [33m0[39m
+  },
+  note: [32m'Sameline with some other lock'[39m,
+  omitFromChangelog: [33mfalse[39m,
+  lastPublishedAt: [1mnull[22m,
+  source: [32m'site'[39m,
+  createdAt: [32m'2026-10-08T15:50:58-07:00'[39m,
+  updatedAt: [32m'2026-10-08T15:50:58-07:00'[39m
+}
+adminAction {
+  id: [32m'a_t_181jkl25'[39m,
+  type: [32m'adminAction'[39m,
+  status: [32m'Staged'[39m,
+  userId: [32m'GGplAdctTfVDLVvYsfIADJmfp8f2'[39m,
+  displayName: [32m'mgsecure'[39m,
+  entryId: [32m'9423b4a4'[39m,
+  entryName: [32m'ALPHA 1000 - 10mm (2pins)'[39m,
+  action: [32m'Delete'[39m,
+  note: [32m"Lock doesn't exist in this version"[39m,
+  adminNote: [32m'Have looked for this for a long time, unable to find proof it exists'[39m,
+  omitFromChangelog: [33mfalse[39m,
+  updatedBelt: [1mnull[22m,
+  samelineTargetId: [1mnull[22m,
+  samelineTargetName: [1mnull[22m,
+  lastPublishedAt: [1mnull[22m,
+  source: [32m'site'[39m,
+  createdAt: [32m'2026-10-05T15:50:58-07:00'[39m,
+  updatedAt: [32m'2026-10-05T15:50:58-07:00'[39m
+}
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m 15/20[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m 9/11[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 1/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 0/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 3/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 0/4[22m
+
+[2m Test Files [22m[1m[32m1 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m34 passed[39m[22m[90m (73)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m2.72s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstderr[2m | tests/vitest/MUICompatibility.test.jsx[2m > [22m[2mMaterial UI compatibility contracts[2m > [22m[2muses roving focus and keyboard selection for Tabs
+[22m[39mAn update to ForwardRef(ButtonBase) inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://react.dev/link/wrap-tests-with-act
+An update to ForwardRef(Tabs) inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://react.dev/link/wrap-tests-with-act
+An update to ForwardRef(Tabs) inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://react.dev/link/wrap-tests-with-act
+
+[90mstderr[2m | tests/vitest/MUICompatibility.test.jsx[2m > [22m[2mMaterial UI compatibility contracts[2m > [22m[2mactivates a Button from Enter and Space
+[22m[39mAn update to ForwardRef(ButtonBase) inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://react.dev/link/wrap-tests-with-act
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m 15/20[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m 9/11[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 1/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 0/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 3/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 0/4[22m
+
+[2m Test Files [22m[1m[32m1 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m34 passed[39m[22m[90m (73)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m2.72s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/ClassificationChangelog.test.jsx[2m > [22m[2mclassification changelog[2m > [22m[2mshows staged Sameline and Delete sections as the visible actions change
+[22m[39madminAction {
+  id: [32m'a_t_181jkl25'[39m,
+  type: [32m'adminAction'[39m,
+  status: [32m'Staged'[39m,
+  userId: [32m'GGplAdctTfVDLVvYsfIADJmfp8f2'[39m,
+  displayName: [32m'mgsecure'[39m,
+  entryId: [32m'9423b4a4'[39m,
+  entryName: [32m'ALPHA 1000 - 10mm (2pins)'[39m,
+  action: [32m'Delete'[39m,
+  note: [32m"Lock doesn't exist in this version"[39m,
+  adminNote: [32m'Have looked for this for a long time, unable to find proof it exists'[39m,
+  omitFromChangelog: [33mfalse[39m,
+  updatedBelt: [1mnull[22m,
+  samelineTargetId: [1mnull[22m,
+  samelineTargetName: [1mnull[22m,
+  lastPublishedAt: [1mnull[22m,
+  source: [32m'site'[39m,
+  createdAt: [32m'2026-10-05T15:50:58-07:00'[39m,
+  updatedAt: [32m'2026-10-05T15:50:58-07:00'[39m
+}
+
+[90mstdout[2m | tests/vitest/GlossaryRoute.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m 15/20[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m 9/11[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 1/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 0/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 3/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 0/4[22m
+
+[2m Test Files [22m[1m[32m1 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m34 passed[39m[22m[90m (73)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m2.72s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstderr[2m | tests/vitest/MUICompatibility.test.jsx[2m > [22m[2mMaterial UI compatibility contracts[2m > [22m[2msupports the Accordion heading and keyboard interaction
+[22m[39mAn update to ForwardRef(ButtonBase) inside a test was not wrapped in act(...).
+
+When testing, code that causes React state updates should be wrapped into act(...):
+
+act(() => {
+  /* fire events that update state */
+});
+/* assert on the output */
+
+This ensures that you're testing the behavior the user would see in the browser. Learn more at https://react.dev/link/wrap-tests-with-act
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m 15/20[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m 9/11[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 1/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 0/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 3/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 0/4[22m
+
+[2m Test Files [22m[1m[32m1 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m34 passed[39m[22m[90m (73)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m2.72s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/ClassificationChangelog.test.jsx[2m > [22m[2mclassification changelog[2m > [22m[2mshows a published action snapshot and returns to the staged changelog
+[22m[39madminAction {
+  id: [32m'a_t_181pdc25'[39m,
+  type: [32m'adminAction'[39m,
+  status: [32m'Staged'[39m,
+  userId: [32m'GGplAdctTfVDLVvYsfIADJmfp8f2'[39m,
+  displayName: [32m'mgsecure'[39m,
+  entryId: [32m'f72085d2'[39m,
+  entryName: [32m'ABUS 34/55 Platinum'[39m,
+  action: [32m'Sameline'[39m,
+  samelineLock: {
+    lockFullName: [32m'Any China Padlock (granite look)'[39m,
+    lockName: [32m'Any China Padlock (granite look)'[39m,
+    lockId: [32m'3ac43ea8'[39m,
+    belt: [32m'White'[39m,
+    lockIndex: [33m0[39m
+  },
+  note: [32m'Sameline with some other lock'[39m,
+  omitFromChangelog: [33mfalse[39m,
+  lastPublishedAt: [1mnull[22m,
+  source: [32m'site'[39m,
+  createdAt: [32m'2026-10-08T15:50:58-07:00'[39m,
+  updatedAt: [32m'2026-10-08T15:50:58-07:00'[39m
+}
+
+[90mstdout[2m | tests/vitest/ClassificationChangelog.test.jsx[2m > [22m[2mclassification changelog[2m > [22m[2mshows a published action snapshot and returns to the staged changelog
+[22m[39madminAction {
+  id: [32m'a_t_apapdc25'[39m,
+  type: [32m'adminAction'[39m,
+  status: [32m'Published'[39m,
+  userId: [32m'Mwbvdkq1QtWu2zLwEaj3imULSry1'[39m,
+  displayName: [32m'Decoder'[39m,
+  entryId: [32m'8d4632d9'[39m,
+  entryName: [32m'Archived lock name'[39m,
+  action: [32m'Belt Change'[39m,
+  previousBelt: [32m'Blue'[39m,
+  updatedBelt: [32m'Brown'[39m,
+  note: [32m'Archived snapshot note'[39m,
+  omitFromChangelog: [33mfalse[39m,
+  lastPublishedAt: [32m'2026-10-09T15:50:58-07:00'[39m,
+  source: [32m'site'[39m,
+  createdAt: [32m'2026-10-04T15:50:58-07:00'[39m,
+  updatedAt: [32m'2026-10-09T15:50:58-07:00'[39m
+}
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m 15/20[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m 10/11[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 2/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 1/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 6/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 0/4[22m
+
+[2m Test Files [22m[1m[32m1 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m40 passed[39m[22m[90m (73)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m2.82s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/ClassificationChangelog.test.jsx[2m > [22m[2mclassification changelog[2m > [22m[2mshows a published action snapshot and returns to the staged changelog
+[22m[39madminAction {
+  id: [32m'a_t_181pdc25'[39m,
+  type: [32m'adminAction'[39m,
+  status: [32m'Staged'[39m,
+  userId: [32m'GGplAdctTfVDLVvYsfIADJmfp8f2'[39m,
+  displayName: [32m'mgsecure'[39m,
+  entryId: [32m'f72085d2'[39m,
+  entryName: [32m'ABUS 34/55 Platinum'[39m,
+  action: [32m'Sameline'[39m,
+  samelineLock: {
+    lockFullName: [32m'Any China Padlock (granite look)'[39m,
+    lockName: [32m'Any China Padlock (granite look)'[39m,
+    lockId: [32m'3ac43ea8'[39m,
+    belt: [32m'White'[39m,
+    lockIndex: [33m0[39m
+  },
+  note: [32m'Sameline with some other lock'[39m,
+  omitFromChangelog: [33mfalse[39m,
+  lastPublishedAt: [1mnull[22m,
+  source: [32m'site'[39m,
+  createdAt: [32m'2026-10-08T15:50:58-07:00'[39m,
+  updatedAt: [32m'2026-10-08T15:50:58-07:00'[39m
+}
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m 17/20[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m 10/11[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 3/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 1/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 6/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 0/4[22m
+
+[2m Test Files [22m[1m[32m1 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m43 passed[39m[22m[90m (73)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m2.92s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/ClassificationChangelog.test.jsx [2m([22m[2m11 tests[22m[2m)[22m[33m 1104[2mms[22m[39m
+ [32m✓[39m tests/vitest/ClassificationAccess.test.jsx [2m([22m[2m20 tests[22m[2m)[22m[33m 796[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m 20/20[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationChangelog.test.jsx[2m 11/11[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 3/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 2/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 6/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 0/4[22m
+
+[2m Test Files [22m[1m[32m3 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m48 passed[39m[22m[90m (73)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m3.03s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAccess.test.jsx[2m 20/20[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 5/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/EnvConfiguration.test.js[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 2/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 7/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+
+[2m Test Files [22m[1m[32m3 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m52 passed[39m[22m[90m (73)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m3.13s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 7/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ContentRoutes.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/EnvConfiguration.test.js[2m 0/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 4/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 7/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+
+[2m Test Files [22m[1m[32m3 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m56 passed[39m[22m[90m (77)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m3.23s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/ContentRoutes.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 8/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ContentRoutes.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/EnvConfiguration.test.js[2m 0/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m 0/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 5/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 7/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+
+[2m Test Files [22m[1m[32m3 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m58 passed[39m[22m[90m (78)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m3.43s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 8/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ContentRoutes.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/EnvConfiguration.test.js[2m 2/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m 0/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 5/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 9/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+
+[2m Test Files [22m[1m[32m3 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m62 passed[39m[22m[90m (78)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m3.53s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 9/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ContentRoutes.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/EnvConfiguration.test.js[2m 2/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m 0/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 5/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 9/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+
+[2m Test Files [22m[1m[32m3 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m63 passed[39m[22m[90m (78)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m3.63s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/MUICompatibility.test.jsx [2m([22m[2m10 tests[22m[2m)[22m[33m 1952[2mms[22m[39m
+   [32m✓[39m Material UI compatibility contracts [2m(10)[22m
+     [33m[2m✓[22m[39m supports dialog focus, confirmation, close button, and Escape dismissal[33m 756[2mms[22m[39m
+     [33m[2m✓[22m[39m supports tooltip display and dismissal[33m 354[2mms[22m[39m
+ [32m✓[39m tests/vitest/EnvConfiguration.test.js [2m([22m[2m4 tests[22m[2m)[22m[33m 481[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 10/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ContentRoutes.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/EnvConfiguration.test.js[2m 4/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m 0/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 5/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/MUICompatibility.test.jsx[2m 10/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+
+[2m Test Files [22m[1m[32m5 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m67 passed[39m[22m[90m (78)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m3.73s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/GlossaryRoute.test.jsx [2m([22m[2m1 test[22m[2m)[22m[33m 529[2mms[22m[39m
+   [32m✓[39m GlossaryRoute [2m(1)[22m
+     [33m[2m✓[22m[39m renders Glossary page[33m 526[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 10/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ContentRoutes.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/GlossaryRoute.test.jsx[2m 1/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 5/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/ReassignVoteButton.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/RouterCompatibility.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+
+[2m Test Files [22m[1m[32m6 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m68 passed[39m[22m[90m (78)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m3.93s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/ReassignVoteButton.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/BeltRequestDiscordPost.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 10/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ContentRoutes.test.jsx[2m 0/5[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 6/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/ReassignVoteButton.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/RouterCompatibility.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+
+[2m Test Files [22m[1m[32m6 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m69 passed[39m[22m[90m (83)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m4.03s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K
+[1m[33m ❯ [39m[22mtests/vitest/BeltRequestDiscordPost.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 11/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ContentRoutes.test.jsx[2m 0/5[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 6/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/ReassignVoteButton.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/RouterCompatibility.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+
+[2m Test Files [22m[1m[32m6 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m70 passed[39m[22m[90m (83)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m4.23s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K
+[1m[33m ❯ [39m[22mtests/vitest/BeltRequestDiscordPost.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 11/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ContentRoutes.test.jsx[2m 3/5[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 6/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/ReassignVoteButton.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/RouterCompatibility.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+
+[2m Test Files [22m[1m[32m6 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m73 passed[39m[22m[90m (83)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m4.34s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/ContentRoutes.test.jsx [2m([22m[2m5 tests[22m[2m)[22m[33m 345[2mms[22m[39m
+[90mstdout[2m | tests/vitest/RouterCompatibility.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/BeltRequestDiscordPost.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 11/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 6/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/ReassignVoteButton.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/RouterCompatibility.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/VoteFormMove.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m7 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m75 passed[39m[22m[90m (83)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m4.54s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K
+[1m[33m ❯ [39m[22mtests/vitest/BeltRequestDiscordPost.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 12/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 6/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/ReassignVoteButton.test.jsx[2m 0/3[22m
+[1m[33m ❯ [39m[22mtests/vitest/RouterCompatibility.test.jsx[2m 0/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/VoteFormMove.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m7 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m76 passed[39m[22m[90m (96)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m4.65s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/VoteFormMove.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/BeltRequestDiscordPost.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 12/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 6/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/ReassignVoteButton.test.jsx[2m 0/3[22m
+[1m[33m ❯ [39m[22mtests/vitest/RouterCompatibility.test.jsx[2m 1/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/VoteFormMove.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m7 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m77 passed[39m[22m[90m (96)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m4.75s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstderr[2m | tests/vitest/RouterCompatibility.test.jsx[2m > [22m[2mroute compatibility contracts[2m > [22m[2mredirects / to the lock list
+[22m[39mMatched leaf route at location "/" does not have an element or Component. This means it will render an <Outlet /> with a null value by default resulting in an "empty" page.
+
+[90mstderr[2m | tests/vitest/RouterCompatibility.test.jsx[2m > [22m[2mroute compatibility contracts[2m > [22m[2mredirects /belts to the lock list
+[22m[39mMatched leaf route at location "/belts" does not have an element or Component. This means it will render an <Outlet /> with a null value by default resulting in an "empty" page.
+
+[90mstderr[2m | tests/vitest/RouterCompatibility.test.jsx[2m > [22m[2mroute compatibility contracts[2m > [22m[2mredirects /does-not-exist to the lock list
+[22m[39mMatched leaf route at location "/does-not-exist" does not have an element or Component. This means it will render an <Outlet /> with a null value by default resulting in an "empty" page.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/BeltRequestDiscordPost.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 12/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 6/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/ReassignVoteButton.test.jsx[2m 0/3[22m
+[1m[33m ❯ [39m[22mtests/vitest/RouterCompatibility.test.jsx[2m 1/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/VoteFormMove.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m7 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m77 passed[39m[22m[90m (96)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m4.75s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/BeltRequestDiscordPost.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/BeltRequestDiscordPost.test.jsx[2m 0/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 12/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 7/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/ReassignVoteButton.test.jsx[2m 0/3[22m
+[1m[33m ❯ [39m[22mtests/vitest/RouterCompatibility.test.jsx[2m 3/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/VoteFormMove.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m7 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m80 passed[39m[22m[90m (110)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m4.85s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstderr[2m | tests/vitest/RouterCompatibility.test.jsx[2m > [22m[2mroute compatibility contracts[2m > [22m[2mrenders the configured route error boundary
+[22m[39mNo `HydrateFallback` element provided to render during initial hydration
+
+
+[1m[33m ❯ [39m[22mtests/vitest/BeltRequestDiscordPost.test.jsx[2m 1/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 12/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 7/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/ReassignVoteButton.test.jsx[2m 3/3[22m
+[1m[33m ❯ [39m[22mtests/vitest/RouterCompatibility.test.jsx[2m 4/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/VoteFormMove.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m8 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m85 passed[39m[22m[90m (110)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m4.95s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/ReassignVoteButton.test.jsx [2m([22m[2m3 tests[22m[2m)[22m[33m 346[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/BeltRequestDiscordPost.test.jsx[2m 1/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 12/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 7/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/ReassignVoteButton.test.jsx[2m 3/3[22m
+[1m[33m ❯ [39m[22mtests/vitest/RouterCompatibility.test.jsx[2m 4/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/VoteFormMove.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m8 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m85 passed[39m[22m[90m (110)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m4.95s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/RouterCompatibility.test.jsx [2m([22m[2m10 tests[22m[2m)[22m[33m 380[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/BeltRequestDiscordPost.test.jsx[2m 8/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 12/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 8/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/ReassignVoteButton.test.jsx[2m 3/3[22m
+[1m[33m ❯ [39m[22mtests/vitest/RouterCompatibility.test.jsx[2m 10/10[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/VoteFormMove.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m9 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m99 passed[39m[22m[90m (110)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m5.05s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/LockListRoute.test.jsx [2m([22m[2m8 tests[22m[2m)[22m[33m 2815[2mms[22m[39m
+   [32m✓[39m LockListRoute [2m(8)[22m
+     [33m[2m✓[22m[39m replaces a prior field filter when route navigation supplies a different field[33m 356[2mms[22m[39m
+     [33m[2m✓[22m[39m updates tab when the user changes belt tab in the UI[33m 385[2mms[22m[39m
+     [33m[2m✓[22m[39m sorts by user selection in the UI[33m 1109[2mms[22m[39m
+     [33m[2m✓[22m[39m renders lock details[33m 311[2mms[22m[39m
+ [32m✓[39m tests/vitest/BeltRequestDiscordPost.test.jsx [2m([22m[2m14 tests[22m[2m)[22m[33m 334[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/BeltRequestDiscordPost.test.jsx[2m 14/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 12/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockListRoute.test.jsx[2m 8/8[22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 1/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/SearchBox.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/UserMenuAccess.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/VoteFormMove.test.jsx[2m 0/1[22m
+
+[2m Test Files [22m[1m[32m11 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m105 passed[39m[22m[90m (111)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m5.25s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/SafelocksRoute.test.jsx [2m([22m[2m4 tests[22m[2m)[22m[33m 3394[2mms[22m[39m
+   [32m✓[39m SafelocksRoute [2m(4)[22m
+     [33m[2m✓[22m[39m renders Safe Locks page[33m 1005[2mms[22m[39m
+     [33m[2m✓[22m[39m displays Export button when entries are visible[33m 2080[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 12/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationToolbar.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/HistoricalVoteDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/SafelocksRoute.test.jsx[2m 4/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/SearchBox.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/UserMenuAccess.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/VoteFormMove.test.jsx[2m 0/1[22m
+
+[2m Test Files [22m[1m[32m12 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m108 passed[39m[22m[90m (111)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m5.35s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/HistoricalVoteDataProvider.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+ [32m✓[39m tests/vitest/VoteFormMove.test.jsx [2m([22m[2m1 test[22m[2m)[22m[32m 220[2mms[22m[39m
+[90mstdout[2m | tests/vitest/ClassificationToolbar.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 12/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationToolbar.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/HistoricalVoteDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/SearchBox.test.jsx[2m 1/5[22m
+[1m[33m ❯ [39m[22mtests/vitest/StatsRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/UserMenuAccess.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/VoteFormMove.test.jsx[2m 1/1[22m
+
+[2m Test Files [22m[1m[32m13 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m110 passed[39m[22m[90m (116)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m5.56s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/StatsRoute.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+ [32m✓[39m tests/vitest/SearchBox.test.jsx [2m([22m[2m5 tests[22m[2m)[22m[32m 139[2mms[22m[39m
+[90mstdout[2m | tests/vitest/UserMenuAccess.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/AdvancedFilterValues.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 12/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationToolbar.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/HistoricalVoteDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/SearchBox.test.jsx[2m 5/5[22m
+[1m[33m ❯ [39m[22mtests/vitest/StatsRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/UserMenuAccess.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m14 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m114 passed[39m[22m[90m (116)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m5.66s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K
+[1m[33m ❯ [39m[22mtests/vitest/AccessContext.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/AdvancedFilterValues.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 12/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationToolbar.test.jsx[2m 0/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/HistoricalVoteDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/StatsRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/UserMenuAccess.test.jsx[2m 0/3[22m
+
+[2m Test Files [22m[1m[32m14 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m114 passed[39m[22m[90m (120)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m5.86s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/ClassificationToolbar.test.jsx [2m([22m[2m1 test[22m[2m)[22m[32m 140[2mms[22m[39m
+ [32m✓[39m tests/vitest/ClassificationPreview.test.jsx [2m([22m[2m14 tests[22m[2m)[22m[33m 4143[2mms[22m[39m
+   [32m✓[39m classification previews [2m(14)[22m
+     [33m[2m✓[22m[39m saves a new vote through the classification API[33m 373[2mms[22m[39m
+     [33m[2m✓[22m[39m edits the existing previous vote with its revision[33m 531[2mms[22m[39m
+     [33m[2m✓[22m[39m creates a staged Delete action and publishes it through separate commands[33m 408[2mms[22m[39m
+     [33m[2m✓[22m[39m creates a staged Other action and publishes it through separate commands[33m 434[2mms[22m[39m
+     [33m[2m✓[22m[39m requires a new sameline name and sends it for save and direct publication[33m 1417[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/AccessContext.test.jsx[2m 0/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/AdvancedFilterValues.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 14/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationToolbar.test.jsx[2m 1/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/HistoricalVoteDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/StatsRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/UserMenuAccess.test.jsx[2m 1/3[22m
+
+[2m Test Files [22m[1m[32m16 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m118 passed[39m[22m[90m (134)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m5.96s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/AccessContext.test.jsx [2m([22m[2m14 tests[22m[2m)[22m[32m 105[2mms[22m[39m
+ [32m✓[39m tests/vitest/UserMenuAccess.test.jsx [2m([22m[2m3 tests[22m[2m)[22m[32m 167[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/AccessContext.test.jsx[2m 14/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/AdvancedFilterValues.test.jsx[2m 1/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationPreview.test.jsx[2m 14/14[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationToolbar.test.jsx[2m 1/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/HistoricalVoteDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/StatsRoute.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/UserMenuAccess.test.jsx[2m 3/3[22m
+
+[2m Test Files [22m[1m[32m18 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m135 passed[39m[22m[90m (135)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m6.16s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/AdvancedFilterValues.test.jsx [2m([22m[2m1 test[22m[2m)[22m[32m 130[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/AdvancedFilterValues.test.jsx[2m 1/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationContext.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/DBContext.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/HistoricalVoteDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ProfileContext.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/RafflePreviewBar.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/StatsRoute.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m19 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m135 passed[39m[22m[90m (135)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m6.26s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/ClassificationContext.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+[90mstdout[2m | tests/vitest/ProfileContext.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationContext.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/DBContext.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/EntryClassificationVote.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/HistoricalVoteDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ProfileContext.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/RafflePreviewBar.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/StatsRoute.test.jsx[2m 1/2[22m
+
+[2m Test Files [22m[1m[32m19 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m136 passed[39m[22m[90m (137)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m6.36s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/StatsRoute.test.jsx [2m([22m[2m2 tests[22m[2m)[22m[32m 134[2mms[22m[39m
+[90mstdout[2m | tests/vitest/EntryClassificationVote.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+[90mstdout[2m | tests/vitest/RafflePreviewBar.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationContext.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/DBContext.test.jsx[2m 0/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/EntryClassificationVote.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/HistoricalVoteDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ProfileContext.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/RafflePreviewBar.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/StatsRoute.test.jsx[2m 2/2[22m
+
+[2m Test Files [22m[1m[32m20 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m137 passed[39m[22m[90m (141)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m6.46s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/ProfileContext.test.jsx [2m([22m[2m7 tests[22m[2m)[22m[32m 85[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationContext.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/DBContext.test.jsx[2m 1/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/EntryClassificationVote.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/FilterDisplay.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/HistoricalVoteDataProvider.test.jsx[2m 0/2[22m
+[1m[33m ❯ [39m[22mtests/vitest/ProfileContext.test.jsx[2m 7/7[22m
+[1m[33m ❯ [39m[22mtests/vitest/RafflePreviewBar.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m21 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m145 passed[39m[22m[90m (150)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m6.56s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/DBContext.test.jsx [2m([22m[2m4 tests[22m[2m)[22m[32m 110[2mms[22m[39m
+ [32m✓[39m tests/vitest/HistoricalVoteDataProvider.test.jsx [2m([22m[2m2 tests[22m[2m)[22m[32m 132[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationContext.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationLiveChangelog.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/DBContext.test.jsx[2m 4/4[22m
+[1m[33m ❯ [39m[22mtests/vitest/EntryClassificationVote.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/FilterDisplay.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/HistoricalVoteDataProvider.test.jsx[2m 2/2[22m
+[1m[33m ❯ [39m[22mtests/vitest/RafflePreviewBar.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m23 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m150 passed[39m[22m[90m (150)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m6.76s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/RafflePreviewBar.test.jsx [2m([22m[2m1 test[22m[2m)[22m[32m 79[2mms[22m[39m
+ [32m✓[39m tests/vitest/FilterDisplay.test.jsx [2m([22m[2m2 tests[22m[2m)[22m[32m 70[2mms[22m[39m
+[90mstdout[2m | tests/vitest/ClassificationLiveChangelog.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+[90mstdout[2m | tests/vitest/DiscordAPICommand.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationCommand.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationContext.test.jsx[2m 0/6[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationLiveChangelog.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/DiscordAPICommand.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/EntryClassificationVote.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/FilterDisplay.test.jsx[2m 2/2[22m
+[1m[33m ❯ [39m[22mtests/vitest/RafflePreviewBar.test.jsx[2m 1/1[22m
+
+[2m Test Files [22m[1m[32m25 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m153 passed[39m[22m[90m (159)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m6.96s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/ClassificationCommand.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+ [32m✓[39m tests/vitest/ClassificationContext.test.jsx [2m([22m[2m6 tests[22m[2m)[22m[32m 91[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationCommand.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationContext.test.jsx[2m 6/6[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationLiveChangelog.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/DiscordAPICommand.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/EntryClassificationVote.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/FilterContext.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/FilterDisplay.test.jsx[2m 2/2[22m
+
+[2m Test Files [22m[1m[32m26 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m159 passed[39m[22m[90m (159)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m7.06s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/DiscordAPICommand.test.jsx [2m([22m[2m1 test[22m[2m)[22m[32m 62[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/AuthCallbackRoutes.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationCommand.test.jsx[2m 0/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationContext.test.jsx[2m 6/6[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationLiveChangelog.test.jsx[2m 0/2[22m
+[1m[33m ❯ [39m[22mtests/vitest/DiscordAPICommand.test.jsx[2m 1/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/EntryClassificationVote.test.jsx[2m 1/3[22m
+[1m[33m ❯ [39m[22mtests/vitest/FilterContext.test.jsx[2m [queued][22m
+
+[2m Test Files [22m[1m[32m27 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m161 passed[39m[22m[90m (166)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m7.16s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/EntryClassificationVote.test.jsx [2m([22m[2m3 tests[22m[2m)[22m[32m 73[2mms[22m[39m
+[90mstdout[2m | tests/vitest/AuthCallbackRoutes.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+ [32m✓[39m tests/vitest/ClassificationCommand.test.jsx [2m([22m[2m1 test[22m[2m)[22m[32m 56[2mms[22m[39m
+ [32m✓[39m tests/vitest/ClassificationLiveChangelog.test.jsx [2m([22m[2m2 tests[22m[2m)[22m[32m 67[2mms[22m[39m
+ [32m✓[39m tests/vitest/FilterContext.test.jsx [2m([22m[2m8 tests[22m[2m)[22m[32m 55[2mms[22m[39m
+[90mstdout[2m | tests/vitest/ClassificationAPICommand.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/AuthCallbackRoutes.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/AuthContext.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAPICommand.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationCommand.test.jsx[2m 1/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationLiveChangelog.test.jsx[2m 2/2[22m
+[1m[33m ❯ [39m[22mtests/vitest/EntryClassificationVote.test.jsx[2m 3/3[22m
+[1m[33m ❯ [39m[22mtests/vitest/FilterContext.test.jsx[2m 8/8[22m
+
+[2m Test Files [22m[1m[32m31 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m174 passed[39m[22m[90m (174)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m7.36s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/AuthCallbackRoutes.test.jsx [2m([22m[2m11 tests[22m[2m)[22m[32m 47[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/AuthCallbackRoutes.test.jsx[2m 11/11[22m
+[1m[33m ❯ [39m[22mtests/vitest/AuthContext.test.jsx[2m 0/6[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAPICommand.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationCatalog.test.js[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/useAdvancedFilterRows.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/useDefaultAdvancedFilterGroup.test.jsx[2m 0/2[22m
+
+[2m Test Files [22m[1m[32m32 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m185 passed[39m[22m[90m (193)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m7.46s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/AuthContext.test.jsx [2m([22m[2m6 tests[22m[2m)[22m[32m 31[2mms[22m[39m
+ [32m✓[39m tests/vitest/useDefaultAdvancedFilterGroup.test.jsx [2m([22m[2m2 tests[22m[2m)[22m[32m 21[2mms[22m[39m
+[90mstdout[2m | tests/vitest/ClassificationDataProvider.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+ [32m✓[39m tests/vitest/useAdvancedFilterRows.test.jsx [2m([22m[2m6 tests[22m[2m)[22m[32m 18[2mms[22m[39m
+ [32m✓[39m tests/vitest/ClassificationCatalog.test.js [2m([22m[2m3 tests[22m[2m)[22m[32m 16[2mms[22m[39m
+ [32m✓[39m tests/vitest/ClassificationAPICommand.test.jsx [2m([22m[2m1 test[22m[2m)[22m[32m 48[2mms[22m[39m
+
+[1m[33m ❯ [39m[22mtests/vitest/AuthContext.test.jsx[2m 6/6[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAPICommand.test.jsx[2m 1/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationCatalog.test.js[2m 3/3[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/useAdvancedFilterRows.test.jsx[2m 6/6[22m
+[1m[33m ❯ [39m[22mtests/vitest/useDefaultAdvancedFilterGroup.test.jsx[2m 2/2[22m
+
+[2m Test Files [22m[1m[32m37 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m203 passed[39m[22m[90m (203)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m7.66s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[90mstdout[2m | tests/vitest/LockDataProvider.test.jsx
+[22m[39mAttention: App is using LOCAL DATA.
+
+
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationAPICommand.test.jsx[2m 1/1[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationCatalog.test.js[2m 3/3[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/classificationNoteMatcher.test.js[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/firebaseInitialization.test.js[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/lockSortComparators.test.js[2m [queued][22m
+
+[2m Test Files [22m[1m[32m37 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m203 passed[39m[22m[90m (203)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m7.77s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/lockSortComparators.test.js [2m([22m[2m9 tests[22m[2m)[22m[32m 9[2mms[22m[39m
+ [32m✓[39m tests/vitest/firebaseInitialization.test.js [2m([22m[2m2 tests[22m[2m)[22m[32m 6[2mms[22m[39m
+ [32m✓[39m tests/vitest/ClassificationDataProvider.test.jsx [2m([22m[2m3 tests[22m[2m)[22m[32m 17[2mms[22m[39m
+ [32m✓[39m tests/vitest/classificationNoteMatcher.test.js [2m([22m[2m6 tests[22m[2m)[22m[32m 6[2mms[22m[39m
+
+[1m[33m ❯ [39m[22msrc/context/filterUrlState.spec.js[2m 0/17[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationDataProvider.test.jsx[2m 3/3[22m
+[1m[33m ❯ [39m[22mtests/vitest/classificationNoteMatcher.test.js[2m 6/6[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationWriteStage.test.js[2m 0/5[22m
+[1m[33m ❯ [39m[22mtests/vitest/firebaseInitialization.test.js[2m 2/2[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockDataProvider.test.jsx[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/lockSortComparators.test.js[2m 9/9[22m
+
+[2m Test Files [22m[1m[32m41 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m223 passed[39m[22m[90m (245)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m7.87s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/ClassificationWriteStage.test.js [2m([22m[2m5 tests[22m[2m)[22m[32m 4[2mms[22m[39m
+ [32m✓[39m src/context/filterUrlState.spec.js [2m([22m[2m17 tests[22m[2m)[22m[32m 5[2mms[22m[39m
+
+[1m[33m ❯ [39m[22msrc/context/filterUrlState.spec.js[2m 17/17[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationDataProvider.test.jsx[2m 3/3[22m
+[1m[33m ❯ [39m[22mtests/vitest/classificationNoteMatcher.test.js[2m 6/6[22m
+[1m[33m ❯ [39m[22mtests/vitest/ClassificationWriteStage.test.js[2m 5/5[22m
+[1m[33m ❯ [39m[22mtests/vitest/firebaseInitialization.test.js[2m 2/2[22m
+[1m[33m ❯ [39m[22mtests/vitest/LockDataProvider.test.jsx[2m 0/2[22m
+[1m[33m ❯ [39m[22mtests/vitest/lockSortComparators.test.js[2m 9/9[22m
+
+[2m Test Files [22m[1m[32m43 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m245 passed[39m[22m[90m (247)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m7.97s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/LockDataProvider.test.jsx [2m([22m[2m2 tests[22m[2m)[22m[32m 13[2mms[22m[39m
+
+[1m[33m ❯ [39m[22msrc/context/advancedFilterState.spec.js[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/classificationVoteStats.test.js[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/DiscordBeltRequest.test.js[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/googleSheetsClient.test.js[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/LockDataProvider.test.jsx[2m 2/2[22m
+[1m[33m ❯ [39m[22mtests/vitest/processChangelogPlan.test.js[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/SafeTestEnvironment.test.js[2m [queued][22m
+
+[2m Test Files [22m[1m[32m44 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m247 passed[39m[22m[90m (247)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m8.07s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/DiscordBeltRequest.test.js [2m([22m[2m5 tests[22m[2m)[22m[32m 5[2mms[22m[39m
+ [32m✓[39m src/context/advancedFilterState.spec.js [2m([22m[2m11 tests[22m[2m)[22m[32m 5[2mms[22m[39m
+ [32m✓[39m tests/vitest/processChangelogPlan.test.js [2m([22m[2m9 tests[22m[2m)[22m[32m 4[2mms[22m[39m
+ [32m✓[39m tests/vitest/googleSheetsClient.test.js [2m([22m[2m1 test[22m[2m)[22m[32m 4[2mms[22m[39m
+ [32m✓[39m tests/vitest/classificationVoteStats.test.js [2m([22m[2m2 tests[22m[2m)[22m[32m 4[2mms[22m[39m
+ [32m✓[39m tests/vitest/SafeTestEnvironment.test.js [2m([22m[2m4 tests[22m[2m)[22m[32m 3[2mms[22m[39m
+
+
+
+[1m[33m ❯ [39m[22mtests/vitest/DiscordBeltRequest.test.js[2m 5/5[22m
+[1m[33m ❯ [39m[22mtests/vitest/getDataClassification.test.js[2m [queued][22m
+
+[2m Test Files [22m[1m[32m50 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m279 passed[39m[22m[90m (279)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m8.17s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/getDataClassification.test.js [2m([22m[2m1 test[22m[2m)[22m[32m 3[2mms[22m[39m
+
+
+[1m[33m ❯ [39m[22msrc/test/utilitiesTests/format.test.js[2m [queued][22m
+[1m[33m ❯ [39m[22mtests/vitest/firebaseConfig.test.js[2m 0/3[22m
+
+[2m Test Files [22m[1m[32m51 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m[1m[32m280 passed[39m[22m[90m (283)[39m
+[2m   Start at [22m23:03:31
+[2m   Duration [22m8.37s
+[?2026l[?2026h[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K [32m✓[39m tests/vitest/firebaseConfig.test.js [2m([22m[2m3 tests[22m[2m)[22m[32m 3[2mms[22m[39m
+ [32m✓[39m src/test/utilitiesTests/format.test.js [2m([22m[2m1 test[22m[2m)[22m[32m 2[2mms[22m[39m
+
+[2m Test Files [22m [1m[32m53 passed[39m[22m[90m (53)[39m
+[2m      Tests [22m [1m[32m284 passed[39m[22m[90m (284)[39m
+[2m   Start at [22m 23:03:31
+[2m   Duration [22m 8.40s[2m (tests 35%, import 34%, environment 15%, transform 9%, setup 7%)[22m
+
+[?2026l[1m[30m[42m PASS [49m[39m[22m [32mWaiting for file changes...[39m
+       [2mpress [22m[1mh[22m[2m to show help[22m[2m, [22m[2mpress [22m[1mq[22m[2m to quit[22m

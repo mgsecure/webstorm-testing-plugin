@@ -1,0 +1,34 @@
+<idea-plugin>
+    <id>com.nealbayless.teststatus</id>
+    <name>Test Status</name>
+    <vendor>Neal Bayless</vendor>
+
+    <description><![CDATA[
+        Runs a test command (such as <code>npm run test</code> with vitest) in the background and shows
+        the result at a glance: the icon of the <b>Test</b> tool window button turns green when the tests
+        pass and red when they fail. Open the tool window to see the live test output.
+        <br/><br/>
+        Configure the command and working directory under <b>Settings | Tools | Test Status</b>.
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <resource-bundle>messages.TestStatusBundle</resource-bundle>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <toolWindow id="Test Status"
+                    anchor="bottom"
+                    icon="/icons/idle.svg"
+                    canCloseContents="false"
+                    factoryClass="com.nealbayless.teststatus.ui.TestStatusToolWindowFactory"/>
+
+        <postStartupActivity implementation="com.nealbayless.teststatus.TestStatusStartupActivity"/>
+
+        <projectConfigurable parentId="tools"
+                             id="com.nealbayless.teststatus.settings"
+                             instance="com.nealbayless.teststatus.TestStatusConfigurable"
+                             displayName="Test Status"/>
+
+        <notificationGroup id="Test Status" displayType="BALLOON"/>
+    </extensions>
+</idea-plugin>

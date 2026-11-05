@@ -1,0 +1,38 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(java -version)",
+      "Read(//Users/nealbayless/.gradle/wrapper/**)",
+      "Bash(find / -name \"gradle-wrapper.jar\" -not -path \"*/node_modules/*\")",
+      "Bash(curl -sI --max-time 8 https://services.gradle.org/distributions/)",
+      "Bash(curl -s --max-time 15 https://services.gradle.org/versions/current)",
+      "Bash(curl -s --max-time 15 https://plugins.gradle.org/m2/org/jetbrains/intellij/platform/org.jetbrains.intellij.platform.gradle.plugin/maven-metadata.xml)",
+      "Bash(curl -s --max-time 15 https://plugins.gradle.org/m2/org/jetbrains/kotlin/jvm/org.jetbrains.kotlin.jvm.gradle.plugin/maven-metadata.xml)",
+      "Bash(mkdir -p /tmp/gradle-bootstrap)",
+      "Read(//tmp/**)",
+      "Bash(curl -sL --max-time 120 -o g.zip https://services.gradle.org/distributions/gradle-9.8.2-bin.zip)",
+      "Bash(unzip -q g.zip)",
+      "Bash(env)",
+      "Bash(sed -i 's|cmd = \\\\[\"/bin/zsh\"|os.environ.pop\\(\"CI\", None\\); os.environ[\"TERM\"]=\"xterm-256color\"\\\\ncmd = [\"/bin/zsh\"|' pty_run.py)",
+      "Bash(python3 -I pty_run.py pty 45 /tmp/spike/pty2.txt)",
+      "Bash(sed 's/\\\\x1b\\\\[[0-9;?]*[A-Za-z]//g' pty2.txt)",
+      "Bash(python3 -I -)",
+      "Bash(time python3 -I pty_run.py pty 40 /tmp/spike/pty3.txt)",
+      "Bash(ps -axo pid,ppid,etime,command)",
+      "Bash(python3 -I pty_run3.py 25 /tmp/spike/pty4.txt)",
+      "Bash(sed 's/\\\\x1b\\\\[[0-9;?]*[A-Za-z]//g' pty4.txt)",
+      "Bash(./gradlew compileKotlin --console=plain)",
+      "Bash(/usr/libexec/java_home -V)",
+      "Bash(grep -v \"^$\")",
+      "Bash(./gradlew test *)",
+      "Bash(cd /Applications/WebStorm.app/Contents && grep -rl \"configurations/PtyCommandLine\" --include=*.jar lib plugins 2>/dev/null | head -3; find . -name \"*.jar\" -size +0 2>/dev/null | head -0; ls lib | head -5)",
+      "Bash(bash -c 'find lib plugins -name \"*.jar\" | while read j; do if unzip -l \"$j\" 2>/dev/null | grep -q \"PtyCommandLine\"; then echo \"$j\"; fi; done | head -3')",
+      "Bash(bash -c 'for j in *.jar; do if unzip -l $j 2>/dev/null | grep -q \"ToolWindowImpl\"; then echo $j; fi; done')",
+      "Bash(./gradlew buildPlugin verifyPluginStructure --console=plain)",
+      "Bash(unzip -l build/distributions/*.zip)",
+      "Bash(unzip -p build/distributions/*.zip 'test-status/lib/test-status-*.jar')",
+      "Bash(unzip -p /tmp/ts.jar META-INF/plugin.xml)",
+      "Bash(./gradlew --stop)"
+    ]
+  }
+}
